@@ -1,2 +1,2 @@
 # Algohack
-An algorithm hacking platform. (End user platform)
+The algorithm hacking platform. (End user platform)
